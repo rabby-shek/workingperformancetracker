@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rabbyshek1998@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "username": "sivvs",
+      "password": "dfsdfdf",
+      "id": 2
+    }
+  ],
+  "working-records": [
+    {
+      "title": "Working Time",
+      "date": "2024-04-08",
+      "workingMinutes": "190",
+      "id": 1
+    }
+  ]
+}
