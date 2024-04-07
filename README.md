@@ -27,5 +27,6 @@ The Performance Tracker App is a simple tool designed to help users track their 
 2. Navigate to the project directory: cd command
 3. Install dependencies: npm install
 4. Start the application: npm start
+5. run the json server: npx json-server --watch db.json --port 6060
 
 
